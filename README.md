@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi, I'm Akshat 👋
+I'm a 15-year-old developer builing real-world tools.
+
+🚀Projects:
+- Amazon FBA Inventory Dashboard (used by Kidstation.in)
+- Live: https://mytaskmarket.lovable.app
+
+🛠️ Tech:
+- Python
+- APIs
+- Data Processing
+- TypeScript
+
+Currently:
+Building tools that solve real Business Problems of Kids Station
 
 <!--
 **Akshat270/Akshat270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
