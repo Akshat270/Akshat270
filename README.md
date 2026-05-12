@@ -1,9 +1,13 @@
-## Hi, I'm Akshat 👋
-I'm a 15-year-old developer builing real-world tools.
+## Hi, I'm Akshat 
+I'm a 14-year-old developer builing real-world tools.
+Founder of Unilytic.in at age of 14
 
 🚀Projects:
-- Amazon FBA Inventory Dashboard (used by Kidstation.in)
-- Live: https://mytaskmarket.lovable.app
+- unilytic.in (Amazon FBA Inventory Dashboard)
+- mytaskmarket.lovable.app
+
+🚀Side Projects:
+- label-flash.lovable.app    (Auto-Print Bar Code from QR Code for warehouse management)
 
 🛠️ Tech:
 - Python
@@ -12,7 +16,8 @@ I'm a 15-year-old developer builing real-world tools.
 - TypeScript
 
 Currently:
-Building tools that solve real Business Problems of Kids Station
+Building tools that solve real Business Problems of Kids Station.
+Managing unilytic.in Website
 
 <!--
 **Akshat270/Akshat270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
