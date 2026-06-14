@@ -8,6 +8,7 @@ Founder of Unilytic.in at age of 14
 
 🚀Side Projects:
 - label-flash.lovable.app    (Auto-Print Bar Code from QR Code for warehouse management)
+- sku-orders.lovable.app     (Convert Pending orders into a manufacturing requirements Excel Sheet)
 
 🛠️ Tech:
 - Python
