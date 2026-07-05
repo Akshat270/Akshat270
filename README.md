@@ -1,5 +1,5 @@
 ## Hi, I'm Akshat 
-I'm a 14-year-old developer builing real-world tools.
+I'm a teen - developer builing real-world tools.
 Founder of Unilytic.in at age of 14
 
 🚀Projects:
