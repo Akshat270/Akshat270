@@ -5,6 +5,7 @@ Founder of Unilytic.in at age of 14
 🚀Projects:
 - unilytic.in (Amazon FBA Inventory Dashboard)
 - MUN command Centre (Public Repo)
+- Checklist Bridge (Public Repo)
 
 🚀Side Projects:
 - label-flash.lovable.app    (Auto-Print Bar Code from QR Code for warehouse management)
