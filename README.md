@@ -1,20 +1,14 @@
 <h1 align="center">Hi, I'm Akshat 👋</h1>
 
 <p align="center">
-  Teen developer building real-world tools for real businesses.<br/>
-  Founder of <a href="https://unilytic.in"><b>Unilytic.in</b></a>, started at age 14.
-</p>
-
-<p align="center">
-  <a href="https://unilytic.in"><img src="https://img.shields.io/badge/Unilytic.in-Visit-2ea44f?style=for-the-badge" alt="Visit Unilytic.in"/></a>
-  &nbsp;
-  <a href="https://github.com/Akshat270?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/></a>
+  <b>Teen developer building real-world tools for real businesses.</b><br/>
+  Founder of <a href="https://unilytic.in">Unilytic.in</a>, started at age 14.
 </p>
 
 <p align="center">
   <a href="#about">About</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#side-projects">Side projects</a> ·
+  <a href="#unilytic">Unilytic</a> ·
+  <a href="#projects">Projects</a> ·
   <a href="#tech-stack">Tech stack</a> ·
   <a href="#currently">Currently</a>
 </p>
@@ -23,43 +17,76 @@
 
 ## About
 
-I build software that solves real operational problems: inventory, orders, warehousing, and label printing.
+I build software for the unglamorous parts of running a business: inventory, orders, warehousing, and label printing.
 
 - Founded **Unilytic.in**, an Amazon FBA inventory dashboard, at 14
 - Build internal tools for **Kids Station**, driven by problems straight from the warehouse floor
-- Enjoy turning messy business data into dashboards, spreadsheets, and one-click workflows
+- Turn messy business data into dashboards, spreadsheets, and one-click workflows
 
 <br/>
 
-## Featured projects
+## Unilytic
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="140" align="center" valign="middle">
+      <a href="https://unilytic.in">
+        <img src="https://www.google.com/s2/favicons?domain=unilytic.in&sz=128" width="96" height="96" alt="Unilytic logo"/>
+      </a>
+    </td>
+    <td valign="middle">
       <h3><a href="https://unilytic.in">Unilytic.in</a></h3>
-      <p>Amazon FBA inventory dashboard for sellers. Tracks stock and helps plan replenishment and shipments.</p>
-      <img src="https://img.shields.io/badge/status-live-2ea44f?style=flat-square" alt="Live"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>MUN Command Centre</h3>
-      <p>A command centre for running Model United Nations sessions.</p>
-      <img src="https://img.shields.io/badge/repo-public-24292f?style=flat-square" alt="Public repo"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Checklist Bridge</h3>
-      <p>A checklist tool that connects tasks across people and teams.</p>
-      <img src="https://img.shields.io/badge/repo-public-24292f?style=flat-square" alt="Public repo"/>
+      <p>An inventory dashboard for Amazon FBA sellers. Tracks stock and helps plan replenishment and shipments, so sellers spend less time in spreadsheets and avoid stockouts.</p>
+      <p>
+        <a href="https://unilytic.in"><img src="https://img.shields.io/badge/Visit_Unilytic.in-2ea44f?style=for-the-badge" alt="Visit Unilytic.in"/></a>
+        <img src="https://img.shields.io/badge/status-live-2ea44f?style=for-the-badge" alt="Live"/>
+      </p>
     </td>
   </tr>
 </table>
 
-## Side projects
+<br/>
 
-| Project | What it does |
-| :-- | :-- |
-| **[Label Flash](https://label-flash.lovable.app)** | Scans a QR code and auto-prints the matching barcode label for warehouse management. |
-| **[SKU Orders](https://sku-orders.lovable.app)** | Converts pending orders into a manufacturing-requirements Excel sheet. |
-| **[MyTaskMarket](https://mytaskmarket.lovable.app)** | A marketplace for tasks. |
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>MUN Command Centre</h4>
+      <p>A command centre for running Model United Nations sessions.</p>
+      <img src="https://img.shields.io/badge/repo-public-24292f?style=flat-square&logo=github" alt="Public repo"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Checklist Bridge</h4>
+      <p>A checklist tool that connects tasks across people and teams.</p>
+      <img src="https://img.shields.io/badge/repo-public-24292f?style=flat-square&logo=github" alt="Public repo"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://label-flash.lovable.app">Label Flash</a></h4>
+      <p>Scans a QR code and auto-prints the matching barcode label for warehouse management.</p>
+      <img src="https://img.shields.io/badge/web_app-live-ff4f8b?style=flat-square" alt="Live web app"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://sku-orders.lovable.app">SKU Orders</a></h4>
+      <p>Converts pending orders into a manufacturing-requirements Excel sheet.</p>
+      <img src="https://img.shields.io/badge/web_app-live-ff4f8b?style=flat-square" alt="Live web app"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://mytaskmarket.lovable.app">MyTaskMarket</a></h4>
+      <p>A marketplace for tasks.</p>
+      <img src="https://img.shields.io/badge/web_app-live-ff4f8b?style=flat-square" alt="Live web app"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>More on GitHub</h4>
+      <p>Browse the rest of my public work.</p>
+      <a href="https://github.com/Akshat270?tab=repositories"><img src="https://img.shields.io/badge/browse-repositories-24292f?style=flat-square&logo=github" alt="Browse repositories"/></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -81,7 +108,7 @@ I build software that solves real operational problems: inventory, orders, wareh
 ## Currently
 
 - Building tools that solve real business problems at **Kids Station**
-- Running and improving **[Unilytic.in](https://unilytic.in)**
+- Running and growing **[Unilytic.in](https://unilytic.in)**
 
 <br/>
 
